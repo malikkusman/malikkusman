@@ -1,3 +1,5 @@
+![KHp5](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Usman Asghar</h1>
 <h3 align="center">Front End Developer</h3>
 
@@ -5,8 +7,13 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Angular**
 
+- 💬 Ask me about **Passionate Front End Developer**
+
+- 📫 How to reach me **42khan0@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/malikusmann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malikusmann_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
