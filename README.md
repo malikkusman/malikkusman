@@ -1,6 +1,8 @@
+![KHp5](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Asghar</h1>
 <h3 align="center">Front End Developer</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikkusman&label=Profile%20views&color=0e75b6&style=flat" alt="malikkusman" /> </p>
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Angular**
