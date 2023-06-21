@@ -1,13 +1,7 @@
-![KHp5](https://user-images.githubusercontent.com/96945594/180788109-bed08f44-fd98-4865-a732-e9589386270e.gif)
-
 <h1 align="center">Hi 👋, I'm Muhammad Usman Asghar</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikkusman&label=Profile%20views&color=0e75b6&style=flat" alt="malikkusman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malikkusman" alt="malikkusman" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/malikusmann_" target="blank"><img src="https://img.shields.io/twitter/follow/malikusmann_?logo=twitter&style=for-the-badge" alt="malikusmann_" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJS, NextJS, Angular**
 
