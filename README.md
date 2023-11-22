@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Muhammad Usman Asghar</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Full Stack Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikkusman&label=Profile%20views&color=0e75b6&style=flat" alt="affan-ch" />
 <img src="https://img.shields.io/github/followers/malikkusman?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
